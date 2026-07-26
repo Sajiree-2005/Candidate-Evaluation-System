@@ -64,5 +64,3 @@ CANDIDATE WILL RECEIVE PACKAGE OF 25 LPA
 ## Acknowledgments
 
 Thank you for using the Candidate Evaluation System! If you have any questions or suggestions, feel free to reach out or open an issue in the repository.
-
-```
